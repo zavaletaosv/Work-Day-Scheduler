@@ -5,7 +5,7 @@ The purpose of this project was to create a funtional 'Work Day Schedular'. The 
 
 ## Links
 
-Depository Link: 
+Depository Link: https://github.com/zavaletaosv/Work-Day-Scheduler
 
 Deployed Website Link: 
 ## Usage
