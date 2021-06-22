@@ -15,7 +15,13 @@ Once deployed, the application appears as the image attached below on a traditio
 
 ## Resources
 
+https://military.onlineclock.net/chart/
 
+https://getbootstrap.com/docs/4.0/layout/grid/#variable-width-content
+
+https://momentjs.com/
+
+https://devhints.io/moment
 
 ## Credits
 
