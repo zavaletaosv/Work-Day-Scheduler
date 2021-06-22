@@ -7,7 +7,7 @@ The purpose of this project was to create a funtional 'Work Day Schedular'. The 
 
 Depository Link: https://github.com/zavaletaosv/Work-Day-Scheduler
 
-Deployed Website Link: 
+Deployed Website Link: https://zavaletaosv.github.io/Work-Day-Scheduler/
 ## Usage
 
 Once deployed, the application appears as the image attached below on a traditional desktop.
