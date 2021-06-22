@@ -12,6 +12,10 @@ Deployed Website Link:
 
 Once deployed, the application appears as the image attached below on a traditional desktop.
 
+<img
+src = "./Assets/planner.gif"
+alt = "A gif of the Work Day Scheduler is shown" />
+
 
 ## Resources
 
